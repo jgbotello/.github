@@ -85,6 +85,19 @@ The Storymodelers team comprises collaborators from different universities and b
       </br>
       Computer Science Ph.D. Student
     </td>
+    <td align="center">
+      <!--- Add below the info of the new person -->
+      <img src="https://avatars.githubusercontent.com/u/142469050?s=400&u=c7f354402c050553fbc944bedfee087b7a6e7b9f&v=4" align="center" width="30%" height="30%" /> </br>
+      <b>Jhon G. Botello</b>
+      <a href="https://twitter.com/jhon_gbm12" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="15" />
+      </a>
+      <a href="https://www.linkedin.com/in/jgbotello/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15" />
+      </a>
+      </br>
+      Computer Science Ph.D. Student
+    </td>
   </tr>
 </table>
 
